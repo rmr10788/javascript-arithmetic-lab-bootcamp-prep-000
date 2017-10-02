@@ -1,8 +1,11 @@
-function add(2, 3) {
+function add() {
 }
 
-subtract(4, 1)
+function subtract(4, 1) {
+}
 
-multiply(3, 4)
+function multiply(3, 4) {
+}
 
-divide(6, 3)
+function divide(6, 3) {
+}
